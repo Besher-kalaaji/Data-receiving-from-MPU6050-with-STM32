@@ -1,0 +1,9 @@
+../Core/Src/main.c:84:5:main	2
+../Core/Src/main.c:113:6:MPU6050_Init	1
+../Core/Src/main.c:130:6:MPU6050_Read_Gyro_Calibration	2
+../Core/Src/main.c:158:6:MPU6050_Read_Sensor_Data	1
+../Core/Src/main.c:191:6:MPU6050_Calculate_Angles	3
+../Core/Src/main.c:226:6:SystemClock_Config	4
+../Core/Src/main.c:270:13:MX_I2C1_Init	4
+../Core/Src/main.c:318:13:MX_GPIO_Init	1
+../Core/Src/main.c:349:6:Error_Handler	1
